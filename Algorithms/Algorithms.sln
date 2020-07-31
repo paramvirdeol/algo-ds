@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{4F4D2545-A7EB-48A2-9C8B-3BCD8A2B5AAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4BD98636-6992-41E2-B162-C178FD557ADD}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.DataStructures", "HackerRank.DataStructures\HackerRank.DataStructures.csproj", "{22140044-E745-4B82-B79D-70BD0068FB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22140044-E745-4B82-B79D-70BD0068FB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22140044-E745-4B82-B79D-70BD0068FB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22140044-E745-4B82-B79D-70BD0068FB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22140044-E745-4B82-B79D-70BD0068FB15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22140044-E745-4B82-B79D-70BD0068FB15} = {4F4D2545-A7EB-48A2-9C8B-3BCD8A2B5AAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAEE092C-0F41-45BF-9D47-9A800B0967EF}
+	EndGlobalSection
+EndGlobal
